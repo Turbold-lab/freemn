@@ -302,3 +302,15 @@ video {
   left: 375px;
   color: aqua;
 }
+
+.video_player {
+  position: relative;
+  top: -670px;
+  left: 10px;
+}
+
+.vidlo {
+  position: relative;
+  top: -670px;
+  left: 10px;
+}
